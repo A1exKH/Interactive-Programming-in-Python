@@ -1,4 +1,4 @@
-# implementation of card game - Memory
+# Mini-project #5 - Memory
 # http://www.codeskulptor.org/#user41_J4JOApkrKv_4.py
 
 import simplegui
