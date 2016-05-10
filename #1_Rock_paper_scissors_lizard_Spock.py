@@ -1,4 +1,4 @@
-# Mini-project #1 - Rock_paper_scissors_lizard_Spock
+# Mini-project #1 - Rock-paper-scissors-lizard-Spock
 
 # The key idea of this program is to equate the strings
 # "rock", "paper", "scissors", "lizard", "Spock" to numbers
