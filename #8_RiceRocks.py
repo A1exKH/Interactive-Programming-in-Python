@@ -1,5 +1,6 @@
 # Mini-project #8 - RiceRocks
 # Use Google Chrome for testing
+
 import simplegui
 import math
 import random
