@@ -1,6 +1,10 @@
 # Interactive-Programming-in-Python
 My mini projects from Coursera 'Interactive Programming in Python'.
 
+# Python version
+Initial code was created for Python 2.x version.
+Work is in progress to update this code to 3.x version.
+
 List of projects:
 
 1. Shrubbery.py
